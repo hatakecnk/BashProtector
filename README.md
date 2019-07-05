@@ -11,14 +11,14 @@ Encrypt Your Bash Code
 
 # How To Install
 ```
-$ pkg install git python2 wget
+$ pkg install git
 $ git clone https://github.com/hatakecnk/BashProtector
 ```
 
 # How To Execute
 ```
 $ cd BashProtector
-$ python2 run.py
+$ bash run.sh
 ```
 
 # Contact Me
